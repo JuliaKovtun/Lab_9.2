@@ -37,6 +37,7 @@ int main()
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 
+	
 	int N;
 	cout << "Введіть N: "; cin >> N;
 
